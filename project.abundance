@@ -47,7 +47,8 @@
     },
     {
       "name": "TabletopWidth",
-      "ioValue": 4
+      "ioValue": 4,
+      "currentEquation": "4"
     },
     {
       "name": "LegFromCenter",
